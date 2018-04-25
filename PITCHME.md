@@ -18,7 +18,7 @@
 
 ### カウボーイジョークがわからない
 
-[cowboy](https://pbs.twimg.com/media/DWS3oPNUQAAkbPx.jpg)
+![cowboy](https://pbs.twimg.com/media/DWS3oPNUQAAkbPx.jpg)
 
 AJ 「あいつ、相当混乱してるなぁ。自分が今ジャガイモを袋に詰めているのか、それともバッファローの群れの中をローラースケートで走り回っているのか、それすらもわかっていない」
 
