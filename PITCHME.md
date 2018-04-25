@@ -126,7 +126,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 ---
 
-DDDをチームで推進するときは、まずはDDDに関する言葉の定義から認識合わせをすることをお勧めします
+DDDをチームで推進するときは、<br>まずはDDDに関する言葉の定義から<br>認識合わせをすることをお勧めします
 
 ---
 
