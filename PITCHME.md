@@ -3,16 +3,22 @@
 ##### 2018/04/23
 ##### 松岡 幸一郎<br>@little_hand_s
 
-20180425
-# 自己紹介
+---
+### 自己紹介
 松岡幸一郎
 株式会社ビズリーチ
 
 ---
 ### DDDあるある
+
+---
 #### × ドメイン駆動開発<br> (Domain Driven Development)と間違える
 
-#### ○ ドメイン駆動設計 (Domain Driven Design)
+#### ○ ドメイン駆動設計<br> (Domain Driven Design)
+---
+
+#### 「DDDする」という言い回しはあってる
+
 
 ---
 
