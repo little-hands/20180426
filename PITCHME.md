@@ -9,10 +9,10 @@
 株式会社ビズリーチ
 
 ---
-# DDDあるある
-### × ドメイン駆動開発 (Domain Driven Development)と間違える
+### DDDあるある
+#### × ドメイン駆動開発<br> (Domain Driven Development)と間違える
 
-### ○ ドメイン駆動設計 (Domain Driven Design)
+#### ○ ドメイン駆動設計 (Domain Driven Design)
 
 ---
 
