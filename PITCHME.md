@@ -83,8 +83,8 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 ---
 
 ポイントは
-* 実装とモデルを結びつけること
 * 複雑なビジネスニーズに対応すること
+* 実装とモデルを結びつけること
 
 ---
 
@@ -101,9 +101,44 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 ---
 #### DDD-EUROPE-2016でEricEvansが解説していた内容
 
-* Focus on the core complexity and opportunity in the domain
-* Explore models in a collaboration of domain experts and software experts
-* Write software that expresses those models explicitly
-* Speak ubiquitous language within a bounded context
+1. Focus on the core complexity and opportunity in the domain
+2. Explore models in a collaboration of domain experts and software experts
+3. Write software that expresses those models explicitly
+4. Speak ubiquitous language within a bounded context
 
 ---
+
+#### 1.ドメインの中核となる複雑さと機会に焦点を当てる
+
+技術的な問題ではなく、ドメインの"価値のある、複雑な部分"にフォーカスするべきである。
+
+---
+
+#### 2.ドメイン専門家とソフトウェア専門家のコラボレーションでモデルを探求する
+
+モデルは一度定義して終わりではない。 継続的に行われ続けるものであるから、モデルの「探求(Explore)」という言葉を使っている。モデルの探求は、ソフトウェア開発者とドメインエキスパートが協調して行うものである。
+
+ソフトウェア開発者はドメインエキスパートに「あなたはビジネスに詳しいのだからモデルを提示してください。私たちはソフトウェアについて責任を持ちます。」と言ってしまいがちである。しかし、モデルの探求を一緒に行うことこそがソフトウェア開発を成功させるために必要なことである。
+---
+
+#### 3.明示的にそれらのモデルを表現するソフトウェアを書く
+ソフトウェアはモデルを表現する必要がある。 ドメインエキスパートと素晴らしい議論をして、様々なコンセプト、ガイド、図、を作ったとしても、最終的には明示的にソフトウェアに表現されなければならない。
+
+---
+
+#### 4.境界付けられたコンテキストの中のユビキタス言語で話す
+言語の意味を定義づける境界を定義し、その中ではすべての人(ソフトウェア開発者、ドメインエキスパート)が同じ意味で言葉を使う必要がある。
+
+さらに、ドメインの問題を解決するソリューションの作成、モデルの探求は、常に定義した言語とその進化を中心として行われる必要がある。
+
+ユビキタスとは"in everywhere"ということである。それはつまり、ビジネスサイドの人と話すとき、エンジニアと話すとき、プログラミングをするとき、ドキュメントを書くとき、ということを意味する。 しかし、それは「全システムを通じて」ということではない。よって、正しくは"境界付けられたコンテキスト内のユビキタス言語"といわなければならない。
+
+---
+
+#### 
+
+---
+
+#### 
+
+
