@@ -15,9 +15,6 @@ DDDブログ書いてます<br>
 
 ---
 
-#### 「DDDする」という言い回しはあってる
----
-
 ### カウボーイジョークがわからない
 
 ![cowboy](https://pbs.twimg.com/media/DWS3oPNUQAAkbPx.jpg)
@@ -80,4 +77,28 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 ---
 
+ポイントは
+* 実装とモデルを結びつけること
+* 複雑なビジネスニーズに対応すること
 
+---
+
+### DDDの向き不向き
+
+◎ 対象のモデルが複雑なアプリケーション<br>
+× シンプルなCRUDのみのアプリケーション<br>
+× 技術的な複雑さがコアとなるアプリケーション
+
+---
+
+### DDDのコアコンセプト
+
+---
+#### DDD-EUROPE-2016でEricEvansが解説していた内容
+
+* Focus on the core complexity and opportunity in the domain
+* Explore models in a collaboration of domain experts and software experts
+* Write software that expresses those models explicitly
+* Speak ubiquitous language within a bounded context
+
+---
