@@ -142,6 +142,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 ---
 
+### DDDのエッセンス
 * 1.ドメインの中核となる複雑さと機会に焦点を当てる
 * 2.ドメイン専門家とソフトウェア専門家のコラボレーションでモデルを探求する
 * 3.明示的にそれらのモデルを表現するソフトウェアを書く
