@@ -92,7 +92,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 ### DDDのコアコンセプト
 
 ---
-#### DDD-EUROPE-2016でEricEvansが解説していた内容
+#### DDD-EUROPE-2016でEric Evansが解説していた内容
 
 1. Focus on the core complexity and opportunity in the domain
 2. Explore models in a collaboration of domain experts and software experts
@@ -107,10 +107,18 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 ---
 
+× ライブラリやDBなど、技術的な事を中心に考える
+
+---
+
 ### 2.ドメイン専門家とソフトウェア専門家のコラボレーションでモデルを探求する
 
 ソフトウェア開発者とドメインエキスパートが協調して行う。<br>
 モデルの「探求(Explore)」：一度定義して終わりではなく継続的に行われる
+---
+
+× ドメインエキスパートに「あなたはビジネスに詳しいのだからモデルを提示してください。私たちはソフトウェアについて責任を持ちます。」と言う
+
 ---
 
 ### 3.明示的にそれらのモデルを表現するソフトウェアを書く
@@ -120,9 +128,16 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 ---
 
+× ドキュメントは立派だが、コードはと手続き型でモデルを表していない
+
+---
+
 ### 4.境界付けられたコンテキストの中のユビキタス言語で話す
 言語の意味を定義づける境界を定義し、その中ではすべての人(ソフトウェア開発者、ドメインエキスパート)が同じ意味で言葉を使う必要がある。
 
+---
+
+× エンジニアとドメインエキスパートはそれぞれの言葉で話している
 
 ---
 
