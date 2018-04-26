@@ -17,7 +17,7 @@ DDDブログ書いてます<br>
 ### あるある①
 ### カウボーイジョークがわからない
 
-![cowboy](https://pbs.twimg.com/media/DWS3oPNUQAAkbPx.jpg)
+![cowboy](https://i.gyazo.com/ef3541d564bc4f2a8875f27bdaaf9bd6.png)
 
 ---
 
