@@ -105,7 +105,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 技術的な問題ではなく、ドメインの"価値のある、複雑な部分"にフォーカスするべきである。
 
-+++
+---
 
 × ライブラリやDBなど、技術的な事を中心に考える
 
@@ -116,7 +116,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 ソフトウェア開発者とドメインエキスパートが協調して行う。<br>
 モデルの「探求(Explore)」：一度定義して終わりではなく継続的に行われる
 
-+++
+---
 
 × ドメインエキスパートに「あなたはビジネスに詳しいのだからモデルを提示してください。私たちはソフトウェアについて責任を持ちます。」と言う
 
@@ -127,7 +127,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 そのためのHowとしてのベストプラクティスが、Entityなどのパターンとして定義されている。
 
-+++
+---
 
 × ドキュメントは立派だが、コードはと手続き型でモデルを表していない
 
@@ -136,7 +136,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 ### 4.境界付けられたコンテキストの中のユビキタス言語で話す
 言語の意味を定義づける境界を定義し、その中ではすべての人(ソフトウェア開発者、ドメインエキスパート)が同じ意味で言葉を使う必要がある。
 
-+++
+---
 
 × エンジニアとドメインエキスパートはそれぞれの言葉で話している
 
