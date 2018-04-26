@@ -105,7 +105,7 @@ Domain-driven design (DDD) is an approach to developing software for complex nee
 
 技術的な問題ではなく、ドメインの"価値のある、複雑な部分"にフォーカスするべきである。
 
----
++++
 
 × ライブラリやDBなど、技術的な事を中心に考える
 
